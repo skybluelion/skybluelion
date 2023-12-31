@@ -37,9 +37,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=brotherjun96)](https://solved.ac/brotherjun96)
 
-<a href="https://hungry-dianella-ee3.notion.site/7c12b266ad894ffa8c5857c3e16da199?v=169e12ca53a948ee9fae4f854959ddae&pvs=4" alt="위의 이미지를 누르면 연결됩니다." target="_blank">
-	<img src="https://imghub.insilicogen.com/media/photos/lbj_notion_0.png" width="100" height="100" align="center" alt="위의 이미지를 누르면 연결됩니다.">
-<a>
-
+<div>
+	<a href="https://hungry-dianella-ee3.notion.site/7c12b266ad894ffa8c5857c3e16da199?v=169e12ca53a948ee9fae4f854959ddae&pvs=4" alt="위의 이미지를 누르면 연결됩니다." target="_blank">
+		<img src="https://imghub.insilicogen.com/media/photos/lbj_notion_0.png" width="100" height="100" align="center" alt="위의 이미지를 누르면 연결됩니다.">
+	<a>
+	<a href="https://velog.io/@skybluelion/posts" alt="위의 이미지를 누르면 연결됩니다." target="_blank">
+		<img src="https://github.com/skybluelion/skybluelion/assets/99467446/6abad49f-1b38-4fb8-a747-27aa9bd060ba" width="100" height="100" align="center" alt="위의 이미지를 누르면 연결됩니다.">
+	<a>
+</div>
 
 </div>
